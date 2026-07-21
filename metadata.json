@@ -1,0 +1,6 @@
+{
+  "name": "Inventra AI",
+  "description": "Enterprise OS for Global Logistics and Supply Chain Orchestration with AI Health Orchestrator and Live Copilot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
